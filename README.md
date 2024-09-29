@@ -1,4 +1,8 @@
-¡Estoy feliz de hacer mi primera edición! 
+Cambios realizados el 28 de sep 2024
+
+¡Estoy feliz de hacer mi primera edición!
+
+
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" width="300">
 </h1><br>
